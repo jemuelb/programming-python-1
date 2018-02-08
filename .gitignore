@@ -2,3 +2,4 @@ __pycache__/
 people-file
 people-pickle
 *.pkl
+people-shelve.db
